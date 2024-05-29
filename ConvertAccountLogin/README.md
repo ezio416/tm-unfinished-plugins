@@ -3,7 +3,7 @@
 
 # Convert Account Login
 
-Used for testing. Obsolete since the release of https://openplanet.dev/plugin/converter-logins-to-display-names
+Used for testing. Obsolete since the release of [Converter](https://openplanet.dev/plugin/converter-logins-to-display-names).
 
 <!-- ![Signed](https://img.shields.io/badge/Signed-Yes-00AA00) -->
 <!-- ![Signed](https://img.shields.io/badge/Signed-School_Mode-CC1199) -->

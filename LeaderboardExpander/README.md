@@ -3,7 +3,7 @@
 
 # Leaderboard Expander
 
-Expands the vanilla leaderboard UI to show more positions. I never really got anywhere with this. A bunch of code is taken from Map Info: https://openplanet.dev/plugin/mapinfo
+Expands the vanilla leaderboard UI to show more positions. I never really got anywhere with this. A bunch of code is taken from [Map Info](https://openplanet.dev/plugin/mapinfo).
 
 <!-- ![Signed](https://img.shields.io/badge/Signed-Yes-00AA00) -->
 <!-- ![Signed](https://img.shields.io/badge/Signed-School_Mode-CC1199) -->
